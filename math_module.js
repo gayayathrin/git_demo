@@ -1,5 +1,5 @@
 var maxTime = 1000;
-var name = "Math Module";
+var name = "Maths Module";
 
 var subtract = function(large, small, callback) {
     var waitTime = Math.floor(Math.random()*(maxTime+1));
